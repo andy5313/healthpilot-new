@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # healthpilot-new
-=======
+
 # healthpilot-new
 
 ## Build Setup
@@ -29,4 +28,3 @@ Components directory contains the Vue.js components.
 ### `pages`
 
 This directory contains the application views and routes for the form and the completed page. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
->>>>>>> a67ebe0 (add healthpilot proj)
