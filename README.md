@@ -1,7 +1,5 @@
 # healthpilot-new
 
-# healthpilot-new
-
 ## Build Setup
 
 ```bash
